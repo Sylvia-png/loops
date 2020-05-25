@@ -35,7 +35,7 @@ console.log("");
 console.log("4: Make an array of persons")
 let arrayOfPersons = [
   {
-    firstName: "Adams",
+    firstName: "Daniel",
     lastName: "Smith",
     birthDate: "Dec 4, 1999",
     gender: "male"
